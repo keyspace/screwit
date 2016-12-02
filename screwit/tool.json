@@ -13,6 +13,6 @@
     "symbol": ";",
     "color": "brown",
     "qualities": [ [ "SCREW", 1 ] ],
-    "flags": [ "SPEAR" ]
+    "flags": [ "SPEAR", "NO_REPAIR" ]
   }
 ]
