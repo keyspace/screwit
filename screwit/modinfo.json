@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "screwit",
+    "name": "Screw It!..",
+    "description": "Adds craftable screwdrivers.",
+    "category": "items",
+    "authors": [ "keyspace" ],
+    "dependencies": [ "dda" ]
+  }
+]

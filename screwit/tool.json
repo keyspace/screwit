@@ -1,0 +1,18 @@
+[
+  {
+    "id": "screwdriver_makeshift",
+    "type": "TOOL",
+    "name": "makeshift screwdriver",
+    "description": "A screw turning implement with a flat head. Literally held together by tightly-wound strings. Works better than nails.",
+    "weight": 250,
+    "volume": 1,
+    "price": 0,
+    "to_hit": -2,
+    "cutting": 4,
+    "material": [ "steel" ],
+    "symbol": ";",
+    "color": "brown",
+    "qualities": [ [ "SCREW", 1 ] ],
+    "flags": [ "SPEAR" ]
+  }
+]
