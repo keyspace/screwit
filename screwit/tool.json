@@ -3,7 +3,7 @@
     "id": "screwdriver_makeshift",
     "type": "TOOL",
     "name": "makeshift screwdriver",
-    "description": "A screw turning implement with a flat head. Literally held together by tightly-wound strings. Works better than nails.",
+    "description": "A screw turning implement with a flat head.  Literally held together by tightly-wound strings.  Works better than nails.",
     "weight": 250,
     "volume": 1,
     "price": 0,
